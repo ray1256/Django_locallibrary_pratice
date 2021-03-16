@@ -1,0 +1,1 @@
+# Django_locallibrary_pratice
